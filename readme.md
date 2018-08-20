@@ -86,62 +86,20 @@ _default:_ `Ivy`
 ### Supported language and voice list
 list of supported language and voice strings
 
-Country | language | voice | gender
---- | --- | --- | --- | ---
-Danish | **da-DK** | **Mads** | male 
-|| **Naja** | female 
-Dutch | **nl-NL** | **Ruben** | male 
-|| **Lotte** | female 
-English (Australian) | **en-AU** | **Russell** | male 
-|| **Nicole** | female 
-English (British) | **en-GB** | **Brian** | male 
-|| **Amy** | female 
-|| **Emma** | female 
-English (Indian) | **en-IN** | **Aditi** | female 
-|| **Raveena** | female 
-English (US) | **en-US** | **Joey** | male 
-|| **Justin** | male 
-|| **Matthew** | male 
-|| **Ivy** | female 
-|| **Joanna** | female 
-|| **Kendra** | female 
-|| **Kimberly** | female 
-|| **Salli** | female 
-English (Welsh) | **en-GB-WLS** | **Geraint** | male 
-French | **fr-FR** | **Mathieu** | male 
-|| **Celine** | female 
-|| **Lea** | female 
-French (Canadian) | **fr-CA** | **Chantal** | female 
-German | **de-DE** | **Hans** | male 
-|| **Marlene** | female 
-|| **Vicki** | female 
-Hindi | **hi-IN** | **Aditi** | female 
-Icelandic | **is-IS** | **Karl** | male 
-|| **Dora** | female 
-Italian | **it-IT** | **Giorgio** | male 
-|| **Carla** | female 
-Japanese | **ja-JP** | **Takumi** | male 
-|| **Mizuki** | female 
-Korean | **ko-KR** | **Seoyeon** | female 
-Norwegian | **nb-NO** | **Liv** | female 
-Polish | **pl-PL** | **Jacek** | male 
-|| **Jan** | male 
-|| **Ewa** | female 
-|| **Maja** | female 
-Portuguese (Brazilian) | **pt-BR** | **Ricardo** | male 
-|| **Vitoria** | female 
-Portuguese (European) | **pt-PT** | **Cristiano** | male 
-|| **Ines** | female 
-Romanian | **ro-RO** | **Carmen** | female 
-Russian | **ru-RU** | **Maxim** | male 
-|| **Tatyana** | female 
-Spanish (European) | **en-ES** | **Enrique** | male  
-|| **Conchita** | female 
-Spanish (Latin American) | **es-US** | **Miguel** | male 
-|| **Penelope** | female 
-Swedish | **sv-SE** | **Astrid** | female 
-Turkish | **tr-TR** | **Filiz** | female 
-Welsh | **cy-GB** | **Gwyneth** | female 
+Country | language | voice | gender |
+--- | --- | --- | --- | --- |
+Danish | **da-DK** | **Mads** | male  |
+|| **Naja** | female  |
+Dutch | **nl-NL** | **Ruben** | male  |
+|| **Lotte** | female  |
+English (Australian) | **en-AU** | **Russell** | male  |
+|| **Nicole** | female  |
+English (British) | **en-GB** | **Brian** | male  |
+|| **Amy** | female  |
+|| **Emma** | female  |
+English (Indian) | **en-IN** | **Aditi** | female  |
+|| **Raveena** | female  |
+English (US) | **en-US** | **Joey** | male  |
 
 ---
 ### Bug Reporting
