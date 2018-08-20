@@ -1,0 +1,24 @@
+{
+  "name": "tbetool/aws-polly",
+  "type": "library",
+  "description": "Based on Amazon AWS Polly. Text to Speech serializer",
+  "keywords": ["aws", "amazon", "amazon aws", "text to speech", "aws text to speech", "aws polly text to speech",
+    "aws polly tts serializer", "aws polly tts", "aws polly text to speech serializer", "polly tts", "polly tts php",
+    "aws polly text to speech php library", "Anuj Sharma", "TBE", "Anuj TBE"],
+  "homepage": "http://thebornenginner.com",
+  "authors": [
+    {
+      "name": "Anuj Sharma",
+      "email": "anuj@thebornengineer.com",
+      "homepage": "https://anujsh.gitlab.io",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "aws/aws-sdk-php": "^3.64"
+  },
+  "autoload": {
+    "psr-4": {"TBETool\\": "src/"}
+  }
+}
